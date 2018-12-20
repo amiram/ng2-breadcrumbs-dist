@@ -1,0 +1,37 @@
+{
+  "$schema": "../../node_modules/ng-packagr/package.schema.json",
+  "name": "ng2-breadcrumbs",
+  "version": "2.0.0",
+  "peerDependencies": {
+    "@angular/core": "^6.0.0 || ^7.0.0",
+    "@angular/common": "^6.0.0 || ^7.0.0",
+    "@angular/platform-browser": "^6.0.0 || ^7.0.0",
+    "rxjs": "^6.1.0"
+  },
+  "repository": "Centroida/ng2-breadcrumb",
+  "homepage": "https://github.com/Centroida/ng2-breadcrumb",
+  "bugs": "https://github.com/Centroida/ng2-breadcrumb/issues",
+  "license": "MIT",
+  "description": "Breadcrumb generator for Angular 7",
+  "keywords": [
+    "Angular 2",
+    "Angular 4",
+    "Angular 5",
+    "Angular 7",
+    "ng",
+    "Breadcrumbs"
+  ],
+  "main": "bundles/ng2-breadcrumbs.umd.js",
+  "module": "fesm5/ng2-breadcrumbs.js",
+  "es2015": "fesm2015/ng2-breadcrumbs.js",
+  "esm5": "esm5/ng2-breadcrumbs.js",
+  "esm2015": "esm2015/ng2-breadcrumbs.js",
+  "fesm5": "fesm5/ng2-breadcrumbs.js",
+  "fesm2015": "fesm2015/ng2-breadcrumbs.js",
+  "typings": "ng2-breadcrumbs.d.ts",
+  "metadata": "ng2-breadcrumbs.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
