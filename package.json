@@ -3,10 +3,10 @@
   "name": "ng2-breadcrumbs",
   "version": "2.0.0",
   "peerDependencies": {
-    "@angular/core": "^6.0.0 || ^7.0.0",
-    "@angular/common": "^6.0.0 || ^7.0.0",
-    "@angular/platform-browser": "^6.0.0 || ^7.0.0",
-    "rxjs": "^6.1.0"
+    "@angular/core": ">10.0.0",
+    "@angular/common": ">10.0.0",
+    "@angular/platform-browser": ">10.0.0",
+    "rxjs": ">6.1.0"
   },
   "repository": "Centroida/ng2-breadcrumb",
   "homepage": "https://github.com/Centroida/ng2-breadcrumb",
